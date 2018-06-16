@@ -1,0 +1,9 @@
+babel-preset-env 
+    - To use ES6 features.
+
+babel-preset-react 
+    - To use JSX, this preset will convert JSX into javascript.
+
+babel-plugin-transform-class-properties 
+    - To use class properties/fields.
+    - To initialize React's "state" without constructor.
